@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/WebbApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myWebbApplication" vcs="Git" />
   </component>
 </project>
